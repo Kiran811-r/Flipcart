@@ -5,6 +5,8 @@
 5 script
 6 login.java
 7 print [ login.java in flipcart ]
-
+8 ok a=1
+9  a=2
+10 a=3
 
 
